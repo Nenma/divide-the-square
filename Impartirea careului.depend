@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1547575121 source:d:\codeblocksprojects\impartirea careului\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+
+1547620733 source:d:\codeblocksprojects\impartirea careului - rosu cristian-mihai&andrici costina\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+
